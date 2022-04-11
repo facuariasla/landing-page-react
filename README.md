@@ -1,3 +1,7 @@
+# Brief Description
+
+Basic layout landing page using React (hooks).
+CSS grid, css flex.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
