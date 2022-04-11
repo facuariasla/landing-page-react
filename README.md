@@ -2,6 +2,9 @@
 
 Basic layout landing page using React (hooks).
 CSS grid, css flex.
+
+Deployed in netlify
+https://62543e5b0e435b7f891a0ce1--stellar-profiterole-99e7c9.netlify.app
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
